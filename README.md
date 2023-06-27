@@ -22,8 +22,12 @@ There are also other files available: Testing-Google n Walmart.ipynb and Testing
 References:
 
 MACHINE LEARNING FOR TRADING: GORDON RITTER: https://cims.nyu.edu/~ritter/ritter2017machine.pdf
+
 Financial Trading as a Game: A Deep Reinforcement Learning Approach: Huang, Chien-Yi https://arxiv.org/pdf/1807.02787.pdf
+
 Convergence of Q-learning: a simple proof: Francisco S. Melo: http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf
+
 https://medium.com/@chinmaya.mishra1/deep-dive-in-to-reinforcement-learning-10fa30b418f9
+
 David Silver’s lectures about deep reinforcement learning
 
