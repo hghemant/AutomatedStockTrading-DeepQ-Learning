@@ -1,5 +1,4 @@
-# Deep-Q-Stock-Trading
-
+# AutomatedStockTrading-DeepQ-Learning
 
 Please find the project inside a Zip file with multiple folders:
 
